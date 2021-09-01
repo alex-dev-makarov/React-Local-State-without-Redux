@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Local-State-without-Redux/static/css/main.c874c616.chunk.css",
+    "main.js": "/React-Local-State-without-Redux/static/js/main.396ea392.chunk.js",
+    "main.js.map": "/React-Local-State-without-Redux/static/js/main.396ea392.chunk.js.map",
+    "runtime-main.js": "/React-Local-State-without-Redux/static/js/runtime-main.23b6a38d.js",
+    "runtime-main.js.map": "/React-Local-State-without-Redux/static/js/runtime-main.23b6a38d.js.map",
+    "static/js/2.1c01032f.chunk.js": "/React-Local-State-without-Redux/static/js/2.1c01032f.chunk.js",
+    "static/js/2.1c01032f.chunk.js.map": "/React-Local-State-without-Redux/static/js/2.1c01032f.chunk.js.map",
+    "index.html": "/React-Local-State-without-Redux/index.html",
+    "static/css/main.c874c616.chunk.css.map": "/React-Local-State-without-Redux/static/css/main.c874c616.chunk.css.map",
+    "static/js/2.1c01032f.chunk.js.LICENSE.txt": "/React-Local-State-without-Redux/static/js/2.1c01032f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23b6a38d.js",
+    "static/js/2.1c01032f.chunk.js",
+    "static/css/main.c874c616.chunk.css",
+    "static/js/main.396ea392.chunk.js"
+  ]
+}
